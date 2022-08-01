@@ -1,0 +1,35 @@
+c:\users\14406677\Desktop\Calculadora\EX01\bin\Debug\EX01.exe.config
+c:\users\14406677\Desktop\Calculadora\EX01\bin\Debug\EX01.exe
+c:\users\14406677\Desktop\Calculadora\EX01\bin\Debug\EX01.pdb
+c:\users\14406677\Desktop\Calculadora\EX01\bin\Debug\EX01.xml
+c:\users\14406677\Desktop\Calculadora\EX01\obj\Debug\EX01.vbprojResolveAssemblyReference.cache
+c:\users\14406677\Desktop\Calculadora\EX01\obj\Debug\EX01.Form1.resources
+c:\users\14406677\Desktop\Calculadora\EX01\obj\Debug\EX01.Resources.resources
+c:\users\14406677\Desktop\Calculadora\EX01\obj\Debug\EX01.vbproj.GenerateResource.Cache
+c:\users\14406677\Desktop\Calculadora\EX01\obj\Debug\EX01.exe
+c:\users\14406677\Desktop\Calculadora\EX01\obj\Debug\EX01.xml
+c:\users\14406677\Desktop\Calculadora\EX01\obj\Debug\EX01.pdb
+D:\Cenas\Trabalhos VS\Calculadora\EX01\bin\Debug\EX01.exe.config
+D:\Cenas\Trabalhos VS\Calculadora\EX01\bin\Debug\EX01.exe
+D:\Cenas\Trabalhos VS\Calculadora\EX01\bin\Debug\EX01.pdb
+D:\Cenas\Trabalhos VS\Calculadora\EX01\bin\Debug\EX01.xml
+D:\Cenas\Trabalhos VS\Calculadora\EX01\obj\Debug\EX01.vbprojAssemblyReference.cache
+D:\Cenas\Trabalhos VS\Calculadora\EX01\obj\Debug\EX01.Form1.resources
+D:\Cenas\Trabalhos VS\Calculadora\EX01\obj\Debug\EX01.Resources.resources
+D:\Cenas\Trabalhos VS\Calculadora\EX01\obj\Debug\EX01.vbproj.GenerateResource.cache
+D:\Cenas\Trabalhos VS\Calculadora\EX01\obj\Debug\EX01.vbproj.CoreCompileInputs.cache
+D:\Cenas\Trabalhos VS\Calculadora\EX01\obj\Debug\EX01.exe
+D:\Cenas\Trabalhos VS\Calculadora\EX01\obj\Debug\EX01.xml
+D:\Cenas\Trabalhos VS\Calculadora\EX01\obj\Debug\EX01.pdb
+D:\Calculadora\EX01\bin\Debug\EX01.exe.config
+D:\Calculadora\EX01\bin\Debug\EX01.exe
+D:\Calculadora\EX01\bin\Debug\EX01.pdb
+D:\Calculadora\EX01\bin\Debug\EX01.xml
+D:\Calculadora\EX01\obj\Debug\EX01.vbprojAssemblyReference.cache
+D:\Calculadora\EX01\obj\Debug\EX01.Form1.resources
+D:\Calculadora\EX01\obj\Debug\EX01.Resources.resources
+D:\Calculadora\EX01\obj\Debug\EX01.vbproj.GenerateResource.cache
+D:\Calculadora\EX01\obj\Debug\EX01.vbproj.CoreCompileInputs.cache
+D:\Calculadora\EX01\obj\Debug\EX01.exe
+D:\Calculadora\EX01\obj\Debug\EX01.xml
+D:\Calculadora\EX01\obj\Debug\EX01.pdb
